@@ -11,7 +11,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 <div style="display: flex; flex-direction: row;">
- <img class="img" src="https://github-readme-stats.vercel.app/api?username=Franchi-21&show_icons=true&theme=radical" />
- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franchi-21&theme=radical&layout=compact" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=Franchi-21&show_icons=true&theme=radical" height="180em"/>
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franchi-21&theme=radical&layout=compact" height="180em" />
 </div>
 
