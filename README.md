@@ -7,7 +7,6 @@
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/Franchi-21?color=salmon&style=for-the-badge)](https://github.com/Franchi-21)
-[![Linkedin](https://img.shields.io/badge/Linkedin-Francisco%20Godoy-green?style=for-the-badge&logo=appveyor&color=blue)](https://www.linkedin.com/in/francisco-godoy-542a95251/)
 ![Gmail](https://img.shields.io/badge/Gmail-fd687585%40gmail.com-blueviolet?style=for-the-badge&logo=appveyor)
 ### ⚙️ &nbsp;GitHub Analytics
 <div style="display: flex; flex-direction: row;">
